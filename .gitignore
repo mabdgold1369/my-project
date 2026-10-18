@@ -6,3 +6,6 @@ venv/
 .quarto/
 *.pyc
 .ipynb_checkpoints/
+/_site/
+/site_libs/
+libs/

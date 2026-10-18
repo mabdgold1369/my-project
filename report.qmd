@@ -1,7 +1,3 @@
 ---
-title: "code ."
+title: "An Analysis of the Effects of Multiple Imputation on Survival Analysis Using the METABRIC Dataset"
 ---
-
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.

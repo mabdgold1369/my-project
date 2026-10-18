@@ -1,4 +1,8 @@
 env/
+.env/
+venv/
 .Rhistory
 .RData
 .quarto/
+*.pyc
+.ipynb_checkpoints/

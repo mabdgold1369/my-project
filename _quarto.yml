@@ -1,5 +1,13 @@
 project:
-  title: "code ."
+  type: default
+  output-dir: _output
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    embed-resources: true
 
 
 
